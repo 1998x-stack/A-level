@@ -22,6 +22,7 @@
 | [10 产品 PRD 与里程碑](docs/10-product-prd.md) | 学生端、教师端、双语、Manim/3D、阶段规划 |
 | [11 验收、风险和决策日志](docs/11-validation-and-decisions.md) | 真实性能、版权、质量、未决假设 |
 | [12 资料与核验索引](docs/12-references.md) | 入口、官方文档、条款、复查计划 |
+| [13 会话脉络与决策演变](docs/13-conversation-chronicle.md) | 本轮三阶段调研的内容归档与未完成项 |
 
 ## 核心决策
 
